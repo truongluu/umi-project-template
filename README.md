@@ -1,5 +1,5 @@
 # umi-project-template
-React Project Template Based On UmiJS\
+React Project Template Based On UmiJS
 
 This template consits of:\
 Multiple environments\
