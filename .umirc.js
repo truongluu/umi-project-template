@@ -10,7 +10,11 @@ export default {
       dynamicImport: { webpackChunkName: true },
       title: 'umi-project-template',
       dll: true,
-      
+      locale: {
+        enable: true, // default false
+        default: 'vi-VN', // default vi-VN
+        baseNavigator: false, // default true, when it is true, will use `navigator.language` overwrite default
+      },
       routes: {
         exclude: [
           /models\//,
