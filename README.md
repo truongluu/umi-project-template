@@ -7,6 +7,6 @@ Multiple layouts (Basic layout, login layout)\
 DvaJS\
 Antd\
 Dll\
-Localization\
+Locales\
 Basic authentication flow with login, logout\
 Request util
