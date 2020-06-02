@@ -9,4 +9,5 @@ Antd\
 Dll\
 Locales\
 Basic authentication flow with login, logout\
-Request util
+Request util\
+Workaround How do I can call API request in my model?
